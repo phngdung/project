@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 2.8)
+project(thanhtoan)
+
+set(CMAKE_BUILD_TYPE Debug)
+
+
+#duong dan den file chua file.h
+include_directories(${PROJECT_SOURCE_DIR}/cmake-btree/inc)
+
+#duong dan den file.a
+link_directories(${PROJECT_SOURCE_DIR}/cmake-btree/lib)
+
+
+add_executable(thanhtoan bt/thanhtoan.c )
+target_link_libraries(thanhtoan bt)

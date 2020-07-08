@@ -1,0 +1,3 @@
+/home/phuongdung/damdung/bt/CMakeFiles/rebuild_cache.dir
+/home/phuongdung/damdung/bt/CMakeFiles/thanhtoan.dir
+/home/phuongdung/damdung/bt/CMakeFiles/edit_cache.dir

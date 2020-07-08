@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/cjset.h
+jrb.h
+-
+
+../lib/containers.h
+
+../lib/jrb.h
+jval.h
+../lib/jval.h
+
+../lib/jval.h
+
+/home/phuongdung/damdung/bt/cjset_t1.c
+cjset.h
+/home/phuongdung/damdung/bt/cjset.h
+containers.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/phuongdung/damdung/lib/cjset.c
+cjset.h
+-
+stdio.h
+-
+

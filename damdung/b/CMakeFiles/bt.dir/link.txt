@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/bt.dir/bt/2015.c.o  -o bt  -L/home/phuongdung/damdung/lib/b -Wl,-rpath,/home/phuongdung/damdung/lib/b -Wl,-Bstatic -lfdr ../binaries/libigraph.a -Wl,-Bdynamic -lm 

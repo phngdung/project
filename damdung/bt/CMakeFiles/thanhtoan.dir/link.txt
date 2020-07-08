@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/thanhtoan.dir/thanhtoan.c.o  -o thanhtoan  -L/home/phuongdung/damdung/lib/b -Wl,-rpath,/home/phuongdung/damdung/lib/b -lfdr 

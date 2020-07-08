@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/order.h
+
+/home/phuongdung/damdung/bt/order_t1.c
+order.h
+/home/phuongdung/damdung/bt/order.h
+stdio.h
+-
+
+/home/phuongdung/damdung/lib/order.c
+order.h
+/home/phuongdung/damdung/lib/order.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/phuongdung/damdung/lib/order.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/bt5.3.dir/cjset_t1.c.o CMakeFiles/bt5.3.dir/lib/cjset.c.o  -o bt5.3  -L/home/phuongdung/damdung/lib/b -Wl,-rpath,/home/phuongdung/damdung/lib/b -lfdr 

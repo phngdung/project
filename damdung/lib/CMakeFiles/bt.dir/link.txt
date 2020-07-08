@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/bt.dir/bt/20182.c.o  -o bt  -L/home/phuongdung/damdung/lib/b 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phuongdung/damdung/lib/dllist.c
+stdio.h
+-
+dllist.h
+/home/phuongdung/damdung/lib/dllist.h
+
+/home/phuongdung/damdung/lib/dllist.h
+jval.h
+/home/phuongdung/damdung/lib/jval.h
+
+/home/phuongdung/damdung/lib/jrb.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+jrb.h
+/home/phuongdung/damdung/lib/jrb.h
+
+/home/phuongdung/damdung/lib/jrb.h
+jval.h
+/home/phuongdung/damdung/lib/jval.h
+
+/home/phuongdung/damdung/lib/jval.c
+stdio.h
+-
+jval.h
+/home/phuongdung/damdung/lib/jval.h
+
+/home/phuongdung/damdung/lib/jval.h
+
