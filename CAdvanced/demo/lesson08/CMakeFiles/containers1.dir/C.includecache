@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phuongdung/CAdvanced/demo/lesson08/containers1.c
+libfdr/dllist.h
+/home/phuongdung/CAdvanced/demo/lesson08/libfdr/dllist.h
+DebugPrintf/debug_printf.h
+/home/phuongdung/CAdvanced/demo/lesson08/DebugPrintf/debug_printf.h
+mylib/containers.h
+/home/phuongdung/CAdvanced/demo/lesson08/mylib/containers.h
+
+DebugPrintf/debug_printf.h
+stdarg.h
+-
+stdio.h
+-
+
+libfdr/dllist.h
+jval.h
+libfdr/jval.h
+
+libfdr/jval.h
+
+mylib/containers.h
+

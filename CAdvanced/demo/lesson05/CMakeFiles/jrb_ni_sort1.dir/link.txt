@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/jrb_ni_sort1.dir/jrb_ni_sort1.c.o  -o jrb_ni_sort1 ../../libfdr/libfdr.a 

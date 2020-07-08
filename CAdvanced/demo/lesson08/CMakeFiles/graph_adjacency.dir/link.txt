@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/graph_adjacency.dir/graph_adjacency.c.o  -o graph_adjacency ../../binaries/libigraph.a -lm ../../libfdr/libfdr.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/bt.dir/2015.c.o  -o bt libfdr/libfdr.a binaries/libigraph.a -lm 

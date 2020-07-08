@@ -1,0 +1,9 @@
+A B
+A C
+B D
+D E
+D F
+F abcd
+abcd PHUNGSON
+D damdung
+PHUNGSON xyz

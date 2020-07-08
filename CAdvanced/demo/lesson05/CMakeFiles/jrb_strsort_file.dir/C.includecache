@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phuongdung/CAdvanced/demo/lesson05/jrb_strsort_file.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+jrb.h
+/home/phuongdung/CAdvanced/demo/lesson05/jrb.h
+fields.h
+/home/phuongdung/CAdvanced/demo/lesson05/fields.h
+
+libfdr/fields.h
+stdio.h
+-
+
+libfdr/jrb.h
+jval.h
+libfdr/jval.h
+
+libfdr/jval.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/containers1.dir/containers1.c.o  -o containers1 ../../libfdr/libfdr.a ../../DebugPrintf/libdebug_printf.a 
